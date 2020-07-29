@@ -1,4 +1,4 @@
-# Card Columns!
+# Card Columns Inspiration Wall
 
 ## The Setup
 
